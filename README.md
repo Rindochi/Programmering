@@ -1,3 +1,3 @@
-# Programmering
+# PRogrammering
 
-Alle sin projekter i programmering
+Alle mine projekter i programmering
